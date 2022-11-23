@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @konzet aka danz
-- 👀 I’m interested in frontend 
-- 🌱 I’m currently learning html,css,js
 
 <!---
 konzet/konzet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
